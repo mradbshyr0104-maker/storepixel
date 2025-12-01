@@ -1,0 +1,8 @@
+لضغط fox.mp4:
+
+1. استخدم موقع: https://www.freeconvert.com/video-compressor
+2. أو: https://www.videosmaller.com
+3. ارفع fox.mp4
+4. اختر جودة متوسطة (720p)
+5. حمل الملف المضغوط
+6. استبدله في المجلد

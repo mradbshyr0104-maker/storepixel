@@ -1,0 +1,22 @@
+خيارات رفع الفيديو (fox.mp4):
+
+1. YouTube (الأفضل):
+   - ارفع الفيديو على: https://youtube.com/upload
+   - اجعله غير مدرج (Unlisted)
+   - استخدم رابط التضمين
+
+2. Cloudinary (مجاني):
+   - https://cloudinary.com
+   - 25GB مجاناً
+   - رفع مباشر
+
+3. Bunny CDN (سريع):
+   - https://bunny.net
+   - مجاني للملفات الصغيرة
+
+4. Internet Archive (بدون حدود):
+   - https://archive.org/upload
+   - مجاني تماماً
+   - بدون قيود
+
+بعد رفع الفيديو، استبدل الرابط في index.html
